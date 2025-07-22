@@ -76,3 +76,42 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+/* header done  */
+
+.m1{
+    height: 342px;
+    width: 342px;
+   
+}
+.m0{
+    
+     display: grid;
+     grid-template-columns:repeat(2 , 1fr);
+     
+     
+}
+.m2{
+    width: 540px;
+    /* align-items: center; */
+    margin: auto 0;
+}
+.m3{
+   font-size: 45px;
+   color: rgb(114, 114, 114);
+}
+.m4{
+    color:rgb(19, 19, 19) ;
+}
+.m5{
+    color: rgb(255, 144, 14);
+}
+/* not to be change more  */
+
+.m001{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+/* done 2nd step  */
